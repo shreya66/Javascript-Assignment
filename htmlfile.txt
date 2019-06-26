@@ -1,0 +1,21 @@
+<html>
+<head>
+<h1>shreya</h1>
+<h2>1 2 3 4 5 6 7 8 9 10</h2>
+<title>This is a webpage</title>
+<h1 style ="color:green">shreya</h1>
+<p>My name is shreya.I am from Ujjain.I have done BE in CS fom MIT Ujjain.Currently i am working in Webdunia as a Trainee.</p>
+</head>
+<body>
+<font color ="green">1</font> 
+<font color ="blue">2</font> 
+<font color ="gray">3</font> 
+<font color ="#008080">4</font> 
+<font color ="#0008B">5</font> 
+<font color ="brown">6</font> 
+<font color ="#bcdcdc">7</font> 
+<font color ="#800000">8</font> 
+<font color ="purple">9</font> 
+<font color ="#688e23">10</font> 
+</body>
+</html>
