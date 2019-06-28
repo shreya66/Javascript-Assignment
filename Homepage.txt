@@ -1,0 +1,63 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" media="all" href="homepage.css"/">
+<title>HomePage
+</title>
+</head>
+<body>
+<header>
+
+<nav>
+<ul id = "nav">
+
+<h1>ALL IN ONE STORE</h1>
+<li><a href="#" class="homered">Home</a></li>
+<li><a href="#" class="homeblack">Gallery</a></li>
+<li><a href="#" class="homeblack">Products</a></li>
+<li><a href="#" class="homeblack">Customer Service</a></li>
+<li><a href="#" class="homeblack">Contact Us</a></li>
+
+</ul>
+</nav>
+</header>
+
+<div class="line">
+</div>
+
+
+<div class="image">
+<img src="download1.jpg"></img>
+</div>
+
+
+<section>
+<span class="box">
+<ol>
+<li>Clothes</li>
+</ol>
+</span>
+
+
+<span class="box">
+<ol>
+<li>Food Articles</li>
+</ol>
+
+
+</span>
+
+
+<span class="box">
+<ol>
+<li>Accessories</li>
+</ol>
+</span>
+
+
+</section>
+
+<footer>
+<h3>@ Copyrights Associated</h3>
+</footer>
+</body>
+</html>
